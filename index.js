@@ -8,7 +8,7 @@ const onReceive = (channel, callback) => {
   channels[channel] = callback;
 };
 
-MessageTunnel = {
+const MessageTunnel = {
   send,
   onReceive,
 };
