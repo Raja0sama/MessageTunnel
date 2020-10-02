@@ -1,0 +1,11 @@
+{
+  "name": "messagetunnel",
+  "version": "1.0.0",
+  "description": "A simple library that create a tunnel between two ends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maaz and Raja",
+  "license": "ISC"
+}
